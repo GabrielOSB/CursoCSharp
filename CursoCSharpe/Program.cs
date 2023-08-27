@@ -10,6 +10,9 @@ namespace CursoCSharpe {
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Segundo Programa - Comentarios", Comentarios.Executar },
                 {"Terceiro Programa - VariaveisEFundamentos", VariaveisEFundamentos.Executar},
+                {"Quarto Programa - Inferencias", Inferencia.Executar},
+                {"Quinto Programa - Interpolação", Interpolacao.Executar},
+                {"Sexto Programa - Notação Ponto", NotacaoPonto.Executar},
             });
 
             central.SelecionarEExecutar();
